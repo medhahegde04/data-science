@@ -1,10 +1,10 @@
 # Data Science Learning and Practice
 
 My exercises, and projects as I learn data science.
-Currently learning: Python (Kaggle)
+Currently learning: Pandas (Kaggle)
 
 ## Progress
-- [ ] Kaggle Python   
+- [X] [Kaggle Python](./kaggle-python/)
 - [ ] Kaggle Pandas
 - [ ] Intro to Machine Learning
 - [ ] Projects
