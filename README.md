@@ -7,7 +7,7 @@ My exercises and projects as I learn data science through Kaggle courses and per
 - [x] [Pandas](./kaggle-pandas/)
 - [x] [Data Visualization](./kaggle-data-visualization)
 - [ ] [Intro to Machine Learning](./kaggle-intro-to-ml)
-- [ ] [Intro to SQL](./kaggle-intro-to-sql)
+- [x] [Intro to SQL](./kaggle-intro-to-sql)
 
 ## Projects
 - [ ] [League of Legends Champion Analysis](https://github.com/medhahegde04/lol-champion-analysis)  *(In progress)*
