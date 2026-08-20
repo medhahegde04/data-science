@@ -9,7 +9,7 @@ My exercises and projects as I learn data science through Kaggle courses and per
 - [ ] [Intro to Machine Learning](./kaggle-intro-to-ml)
 - [x] [Intro to SQL](./kaggle-intro-to-sql)
 - [x] [Data Cleaning](./kaggle-data-cleaning)
-- [ ] [Intro to Deep Learning](./kaggle-intro-to-dl)
+- [x] [Intro to Deep Learning](./kaggle-intro-to-dl)
 
 ## Projects
 - [ ] [League of Legends Champion Analysis](https://github.com/medhahegde04/lol-champion-analysis)  *(In progress)*
