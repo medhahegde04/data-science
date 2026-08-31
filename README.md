@@ -11,6 +11,11 @@ My exercises and projects as I learn data science through Kaggle courses and per
 - [x] [Data Cleaning](./kaggle-data-cleaning)
 - [x] [Intro to Deep Learning](./kaggle-intro-to-dl)
 - [x] [Computer Vision](./kaggle-computer-vision)
+- [ ] Geospatial Analysis
+- [ ] Advanced SQL
+- [ ] Intermediate Machine Learning
+- [ ] Feature Engineering
+- [ ] Time Series
 
 ## Projects
 - [ ] [League of Legends Champion Analysis](https://github.com/medhahegde04/lol-champion-analysis)  *(In progress)*
