@@ -10,7 +10,7 @@ My exercises and projects as I learn data science through Kaggle courses and per
 - [x] [Intro to SQL](./kaggle-intro-to-sql)
 - [x] [Data Cleaning](./kaggle-data-cleaning)
 - [x] [Intro to Deep Learning](./kaggle-intro-to-dl)
-- [ ] [Computer Vision](./kaggle-computer-vision)
+- [x] [Computer Vision](./kaggle-computer-vision)
 - [ ] Geospatial Analysis
 - [ ] Advanced SQL
 - [ ] Intermediate Machine Learning
