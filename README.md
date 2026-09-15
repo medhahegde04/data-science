@@ -18,4 +18,4 @@ My exercises and projects as I learn data science through Kaggle courses and per
 - [ ] Time Series
 
 ## Projects
-- [ ] [League of Legends Champion Analysis](https://github.com/medhahegde04/lol-champion-analysis)  *(In progress)*
+- [x] [League of Legends Champion Analysis](https://github.com/medhahegde04/lol-champion-analysis)
