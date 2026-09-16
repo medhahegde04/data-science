@@ -5,7 +5,7 @@ My exercises and projects as I learn data science through Kaggle courses and per
 ## Kaggle Courses
 - [x] [Python](./kaggle-python/)
 - [x] [Pandas](./kaggle-pandas/)
-- [x] [Data Visualization](./kaggle-data-visualization)
+- [x] [Data Visualization](./kaggle-data-visualization) – [Final Project: Honkai Star Rail Review Sentiment Analysis](./kaggle-data-visualization/exercise-final-project.ipynb)
 - [ ] [Intro to Machine Learning](./kaggle-intro-to-ml)
 - [x] [Intro to SQL](./kaggle-intro-to-sql)
 - [x] [Data Cleaning](./kaggle-data-cleaning)
